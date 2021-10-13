@@ -1,5 +1,5 @@
 # keemBot IRC powered Twitch bot
-I coded this bot in mSL which is a small scripting language for mIRC.
+I coded this bot in mSL which is a small scripting language for mIRC. This was made in 2018
 This is a dice rolling style chat bot which allows users to create accounts and track their score in a number of chat games.
 This bot also allowed twitch chat viewers to challenge the streamer. It would also track how many challenges users posed to the streamer and a ton of other details
 
